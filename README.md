@@ -46,7 +46,7 @@ Para ejecutar el proyecto localmente, sigue estos pasos:
 5. 🔃 Crea un Pull Request en GitHub.
 
 ## 👤 Autor
-Juan Carlos Moreno Ivito
+Juan Carlos Moreno Ivito.
 
 ## 📄 Licencia
 Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo `LICENSE.md`.
